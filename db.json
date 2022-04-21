@@ -1,0 +1,45 @@
+{
+  "products": [
+    {
+      "id": 3,
+      "name": "Giày hj up",
+      "price": 123,
+      "img": "https://images.unsplash.com/photo-1649878938487-c0242ac0ee46?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw5fHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60",
+      "description": "Hi"
+    },
+    {
+      "id": 2,
+      "name": "Giày hj1000",
+      "price": 123,
+      "img": "https://images.unsplash.com/photo-1649878938487-c0242ac0ee46?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw5fHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60",
+      "description": "Hi"
+    },
+    {
+      "name": "product 2 up",
+      "img": "https://image.thanhnien.vn/w1024/Uploaded/2022/xdrkxrvekx/2022_01_24/2794-1202.jpg",
+      "price": "11111111111",
+      "description": "Samsung Galaxy S22 ra mắt với diện mạo vô cùng tinh tế và trẻ trung, mang trong mình thiết kế phẳng theo xu hướng thịnh hành, màn hình 120 Hz mượt mà, cụm camera AI 50 MP và bộ xử lý đến từ Qualcomm.",
+      "id": 4
+    },
+    {
+      "name": "product 2000",
+      "img": "https://image.thanhnien.vn/w1024/Uploaded/2022/xdrkxrvekx/2022_01_24/2794-1202.jpg",
+      "price": "11111111111",
+      "de": "11111111111",
+      "description": "Samsung Galaxy S22 ra mắt với diện mạo vô cùng tinh tế và trẻ trung, mang trong mình thiết kế phẳng theo xu hướng thịnh hành, màn hình 120 Hz mượt mà, cụm camera AI 50 MP và bộ xử lý đến từ Qualcomm.",
+      "id": 6
+    }
+  ],
+  "users": [
+    {
+      "email": "vuong@gmail.com",
+      "password": "$2a$10$Wyo0ExpPZEBDTWz9FC0uJuz7FMUfWlaRlfyJhSBPWlK91B8P9MSdy",
+      "id": 1
+    },
+    {
+      "email": "vuong10@gmail.com",
+      "password": "$2a$10$xJE3GZVTZ.Gqk.Ir82i19ee/X89AdQmINgdnjtnV.DB5/VAltar2.",
+      "id": 2
+    }
+  ]
+}
